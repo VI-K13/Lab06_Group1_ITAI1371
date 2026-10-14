@@ -12,7 +12,7 @@ In this lab, our group worked with the Titanic dataset to explore Linear Regress
 - **Logistic Regression:** Accuracy = 74.83%
 
 ## Files
-- `L06_Group1_ITAI1371.ipynb` — Completed Jupyter Notebook with code, results, and Knowledge Check answers.
+- `L06_Group1_ITAI1371 - Colab.pdf` — Completed Jupyter Notebook with code, results, and Knowledge Check answers.
 - `L06Journal_R_Group1_ITAI1371.docx` — Group reflection on the lab activities and learning experience.
 - `L06Journal_C_Group1_ITAI1371.docx` — Team Member Contribution Journal explaining each member's responsibilities.
 
